@@ -1,0 +1,22 @@
+.main{
+    height: 800px;
+    border-radius: 10px;
+    width: 60vw;
+    height: 90vh;
+    overflow: hidden;
+    overflow-y: scroll;
+}
+.image{
+    max-width: 100%;
+    margin-bottom: 20px;
+
+}
+
+.images {
+    max-width: 100%;
+    margin-bottom: 20px;
+}
+.images-img{
+    max-width: 100%;
+    margin-bottom: 20px;
+}

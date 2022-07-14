@@ -1,0 +1,13 @@
+.main{
+    margin-bottom: 100px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    width: 95vw;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgb(187, 208, 228);
+    box-shadow: 1px 1px 10px 0px rgb(109, 120, 131);
+}

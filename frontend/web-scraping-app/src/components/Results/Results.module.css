@@ -1,0 +1,41 @@
+.main{
+    height: 22vh;
+    width: 32vw;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    overflow-x: scroll;
+    overflow-y: scroll;
+    margin: 0 auto;
+}
+.button {
+    background-color: rgb(231, 237, 243);
+    border: none;
+    border-radius: 2px;
+    height: 25px;
+    width: auto;
+    margin: 3px;
+    margin: 5px;
+    font-size: 12px;
+}
+.button:active{
+    background-color:rgb(140, 182, 223) ;
+}
+
+.submitButton {
+    font-family: 'Poppins', sans-serif;
+    border: none;
+    border-radius: 5px;
+    height: 30px;
+    width: 20vw;
+    margin-top: 25px;
+    color:rgb(31, 67, 102)  ;
+    font-weight: 700;
+    font-size: 14px;
+
+}
+.submitButton:active{
+    background-color:rgb(140, 180, 221)  ;
+}
+
