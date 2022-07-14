@@ -5,7 +5,7 @@
 
 Avant de lancer le programme il y a quelques vérifications et configurations à réaliser :
 
-1.S’assurer que toutes les urls dans la colonne du fichier dédiée aux sites internet sont correctes : 
+S’assurer que toutes les urls dans la colonne du fichier dédiée aux sites internet sont correctes : 
 
 Il faut que l’url commence par http.. ex: https://www.google.fr/ et non www.google.fr ou google.fr par exemple
 
